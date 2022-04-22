@@ -3,7 +3,7 @@
     height: 30px;
     -webkit-transform: translateY(15px);
     transform: translateY(15px);
-    background: #FF432E;
+    background: #6CF5E5;
   }
 }
 
@@ -12,33 +12,33 @@
     height: 30px;
     -webkit-transform: translateY(15px);
     transform: translateY(15px);
-    background: #FF432E;
+    background: #6CF5E5;
   }
 }
 
 .btn-main {
-  background: #FF432E;
-  border: 1px solid #FF432E;
+  background: #6CF5E5;
+  border: 1px solid #6CF5E5;
 }
 
 .title .border {
-  background-color: #FF432E;
+  background-color: #6CF5E5;
 }
 
 .portfolio-filter button {
-  background: #FF432E;
+  background: #6CF5E5;
 }
 
 .navigation .navbar-nav > li.active a {
-  color: #FF432E;
+  color: #6CF5E5;
 }
 
 .navigation .navbar-nav > li > a:hover, .navigation .navbar-nav > li > a:active, .navigation .navbar-nav > li > a:focus {
-  color: #FF432E;
+  color: #6CF5E5;
 }
 
 .testimonial {
-  background: #FF432E;
+  background: #6CF5E5;
 }
 
 .team .member-photo .mask {
@@ -49,14 +49,14 @@
   Our skills
 ==================================================================*/
 .team-skills .progress-block .progress .progress-bar {
-  background: #FF432E;
+  background: #6CF5E5;
 }
 
 /*=================================================================
   Step section
 ==================================================================*/
 .development-steps .step-2 {
-  background-color: #FF432E;
+  background-color: #6CF5E5;
 }
 
 .development-steps .step-3 {
@@ -68,82 +68,82 @@
 }
 
 .services .service-block.color-bg {
-  background: #FF432E;
+  background: #6CF5E5;
 }
 
 .services .service-block i {
-  color: #FF432E;
+  color: #6CF5E5;
 }
 
 .service-2 .service-item:hover i {
-  color: #FF432E;
+  color: #6CF5E5;
 }
 
 .service-2 .service-item i {
-  background: #FF432E none repeat scroll 0 0;
+  background: #6CF5E5 none repeat scroll 0 0;
 }
 
 .pricing-table .price-title .value {
-  color: #FF432E;
+  color: #6CF5E5;
 }
 
 .portfolio-filter ul li.active {
-  background: #FF432E;
+  background: #6CF5E5;
 }
 
 .portfolio-block .caption .search-icon {
-  background: #FF432E;
+  background: #6CF5E5;
 }
 
 .counters-item i {
-  color: #FF432E;
+  color: #6CF5E5;
 }
 
 .contact-form input:hover,
 .contact-form textarea:hover,
 .contact-form #contact-submit:hover {
-  border-color: #FF432E;
+  border-color: #6CF5E5;
 }
 
 .contact-form #contact-submit {
-  background: #FF432E;
+  background: #6CF5E5;
 }
 
 .social-icon ul li a:hover {
-  background: #FF432E;
-  border: 1px solid #FF432E;
+  background: #6CF5E5;
+  border: 1px solid #6CF5E5;
 }
 
 .about .btn-about {
-  background: #FF432E;
+  background: #6CF5E5;
 }
 
 .about .feature-list li i {
-  color: #FF432E;
+  color: #6CF5E5;
 }
 
 .top-footer li a:hover {
-  color: #FF432E;
+  color: #6CF5E5;
 }
 
 .footer-bottom a {
-  color: #FF432E;
+  color: #6CF5E5;
 }
 
 .post-meta a {
-  color: #FF432E;
+  color: #6CF5E5;
 }
 
 .next-prev a:hover {
-  color: #FF432E;
+  color: #6CF5E5;
 }
 
 .social-profile ul li a i:hover {
-  color: #FF432E;
+  color: #6CF5E5;
 }
 
 .comment-reply-form input:focus, .comment-reply-form textarea:focus {
-  border: 1px solid #FF432E;
+  border: 1px solid #6CF5E5;
 }
 
 /*# sourceMappingURL=../maps/colors/red.css.map */
